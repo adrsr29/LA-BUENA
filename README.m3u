@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,##### MUNDIAL #####
+http://line.powerdino.com:80/835bec7748/9a59ce7826/505613
+#EXTINF:-1,ES - GOL MUNDIAL 1 FHD
+http://line.powerdino.com:80/835bec7748/9a59ce7826/811125
+#EXTINF:-1,ES - GOL MUNDIAL 1 UHD
+http://line.powerdino.com:80/835bec7748/9a59ce7826/811127
+#EXTINF:-1,ES - GOL MUNDIAL 1 SD
+http://line.powerdino.com:80/835bec7748/9a59ce7826/813105
+#EXTINF:-1,ES - GOL MUNDIAL 2 UHD
+http://line.powerdino.com:80/835bec7748/9a59ce7826/811126
+#EXTINF:-1,ES - GOL MUNDIAL 2 FHD
+http://line.powerdino.com:80/835bec7748/9a59ce7826/811124
 #EXTINF:-1,▼•●• WORLDCUP REPLAY •●• ▼
 http://line.powerdino.com:80/835bec7748/9a59ce7826/810143
 #EXTINF:-1,◈ WorldCup Replay info ᴴᴰ
@@ -224,18 +236,6 @@ http://line.powerdino.com:80/835bec7748/9a59ce7826/612255
 #EXTINF:-1,ES - M.LCAMPEON 7 [LIVEEVENT]
 http://line.powerdino.com:80/835bec7748/9a59ce7826/612256
 #EXTINF:-1,ES - M.LCAMPEON 8 [LIVEEVENT]
-#EXTINF:-1,##### MUNDIAL #####
-http://line.powerdino.com:80/835bec7748/9a59ce7826/505613
-#EXTINF:-1,ES - GOL MUNDIAL 1 FHD
-http://line.powerdino.com:80/835bec7748/9a59ce7826/811125
-#EXTINF:-1,ES - GOL MUNDIAL 1 UHD
-http://line.powerdino.com:80/835bec7748/9a59ce7826/811127
-#EXTINF:-1,ES - GOL MUNDIAL 1 SD
-http://line.powerdino.com:80/835bec7748/9a59ce7826/813105
-#EXTINF:-1,ES - GOL MUNDIAL 2 UHD
-http://line.powerdino.com:80/835bec7748/9a59ce7826/811126
-#EXTINF:-1,ES - GOL MUNDIAL 2 FHD
-http://line.powerdino.com:80/835bec7748/9a59ce7826/811124
 #EXTINF:-1,ES - DAZN LALIGA SD
 http://line.powerdino.com:80/835bec7748/9a59ce7826/760762
 #EXTINF:-1,ES - DAZN LALIGA HD
